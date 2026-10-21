@@ -1,8 +1,9 @@
+# Bash Exercises
 
 Exercícios realizados durante o estudo de Bash e scripting Linux.
- 
+
 ## Conteúdos
- 
+
 - Ola-Mundo: primeiro script Bash
 - Variaveis: utilização de variáveis
 - Soma: operações aritméticas
